@@ -1,5 +1,6 @@
 streamlit
 pandas
-numpy
 plotly
-scikit-learn
+pydantic          # <-- ADD THIS
+scikit-learn      # (if needed for your fraud detection)
+numpy             # (if needed)
